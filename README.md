@@ -20,10 +20,7 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Research-Level-darkgreen?style=for-the-badge">
-<img src="https://img.shields.io/badge/Beginner-Friendly-success?style=for-the-badge">
-<img src="https://img.shields.io/badge/Open%20Source-Community-orange?style=for-the-badge">
-<img src="https://img.shields.io/badge/AI-Engineering-red?style=for-the-badge">
+  <img src="banner.png" alt="Uditya Coding Animation" width="100%">
 </p>
 
 </div>
@@ -51,6 +48,9 @@ This repository provides a comprehensive journey from:
 
 The goal is to help learners understand not only **how Transformers work** but also **why they became the foundation of modern AI systems.**
 
+<p align="center">
+  <img src="Transformer.png" alt="Transformer" width="100%">
+</p>
 ---
 
 # 🎯 Project Objectives
