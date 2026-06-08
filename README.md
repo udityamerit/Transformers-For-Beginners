@@ -270,39 +270,18 @@ B6 --> Output
 ```bash
 Transformers-For-Beginners/
 
-├── 01_Foundations/
-│
-├── 02_Attention_Mechanism/
-│
-├── 03_Self_Attention/
-│
-├── 04_Multi_Head_Attention/
-│
-├── 05_Positional_Encoding/
-│
-├── 06_Encoder/
-│
-├── 07_Decoder/
-│
-├── 08_Transformer_Architecture/
-│
-├── 09_Training_Pipeline/
-│
-├── 10_LLMs/
-│
-├── 11_Fine_Tuning/
-│
-├── 12_RAG/
-│
-├── 13_AI_Agents/
-│
-├── notebooks/
-│
-├── assets/
-│
-└── README.md
+|
+|── 📁 Handwritten Notes on Transformers/
+│   |── 📄 Complete Trasnformer Handwritten Notes.pdf
+├── 📄 01_The_Transformer_Architecture.pdf
+├── 📄 02_The_Self_Attention_Layer_in_Transformer_Models.pdf
+├── 📄 03_The_Multi_Head_Attention_Layer_in_Transformer_Models.pdf
+├── 📄 04_Layer_Normalization_in_Transformers.pdf
+├── 📄 05_All_About_the_Encoder_in_Transformers.pdf
+├── 📄 06_Attention_Mechanism_in_Transformers.pdf
+├── 📄 07_All_About_the_Decoder_in_Transformers.pdf
+└── 📄 08_Output_Layer_in_Transformers.pdf
 ```
-
 ---
 
 # 🎓 Learning Roadmap
