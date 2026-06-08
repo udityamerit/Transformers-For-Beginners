@@ -29,9 +29,11 @@
 
 # 📖 Overview
 
-Transformers have fundamentally changed the landscape of Artificial Intelligence.
+Transformers For Beginners is a comprehensive, research-oriented repository designed to help students, developers, and AI enthusiasts understand Transformer architectures from first principles to modern Large Language Models (LLMs). This repository combines detailed handwritten notes, mathematical explanations, visual workflows, and practical insights to build a strong foundation in Attention Mechanisms, Self-Attention, Multi-Head Attention, Layer Normalization, Encoders, Decoders, and Output Layers.
 
-Modern systems including GPT, BERT, T5, LLaMA, Claude, Gemini, Mistral, and most state-of-the-art Large Language Models are built upon Transformer architectures.
+The content follows a structured learning path inspired by the original Attention Is All You Need paper and extends to modern architectures such as BERT, GPT, T5, LLaMA, and Mistral. Along with theoretical concepts, the repository provides research paper references, architecture diagrams, implementation guidance, and curated resources for deeper exploration.
+
+Whether you are preparing for interviews, learning NLP, studying Deep Learning, or exploring Generative AI, this repository serves as a complete roadmap for mastering Transformers and understanding the technology powering today's most advanced AI systems.
 
 This repository provides a comprehensive journey from:
 
